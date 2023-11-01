@@ -60,3 +60,5 @@ export const styles = StyleSheet.create({
     color:"#fffff"
   }
 });
+
+//watch 25th video of codevoultion, no code added.
